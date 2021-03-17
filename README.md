@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Here's a test page](test_page.md)
 
-[Here's a test file](Portfolio/Mousetrap_Car/mouse trap car assembly.stp)
+[Here's a test file](mouse trap car assembly.stp)
 
 ### Markdown
 
