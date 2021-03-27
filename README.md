@@ -1,4 +1,4 @@
-### Highschool Robotics  -<font size="3"> your text </font>
+### Highschool  Robotics  -<font size="3"> your text </font>
 [Project Page](FRC/FRC.md)  
 &nbsp;   
 
