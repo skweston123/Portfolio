@@ -1,4 +1,4 @@
-### Highschool Robotics Club
+### High School Robotics Club
 - Design work was done with Autodesk Inventor  
 - Experience prototyping and designing parts and mechanisms 
 - Collaboration with a large group of other students and mentors  
@@ -33,7 +33,7 @@
 - Designed with Solidworks
 - Code written using the Arduino IDE
 - Experience Prototyping and designing parts for manufacture primarily by 3d printing
-- Experience with wiring, soldering and programming an arduino based control system  
+- Experience with wiring, soldering, and programming an Arduino based control system  
 - Collaboration with 3 other students
 
 [Project Page](RC_Car/RC_Car.md)  
