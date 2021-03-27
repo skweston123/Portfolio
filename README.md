@@ -1,7 +1,10 @@
-### Highschool Robotics [Project Page](FRC/FRC.md)
+### Highschool Robotics
+[Project Page](FRC/FRC.md)
+
 
 ### Mousetrap Car
 [Project Page](Mousetrap_Car/Mousetrap_Car.md)
+
 
 ### Drill Press Vise
 [Project Page](Vise/Vise.md)
