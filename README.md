@@ -1,4 +1,4 @@
-### Highschool Robotics
+### [Highschool Robotics](FRC/FRC.md)
 
 ### Mousetrap Car
 
