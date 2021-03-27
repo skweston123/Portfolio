@@ -1,5 +1,5 @@
 ### Highschool Robotics
-[Project Page](FRC/FRC.md)  
+[Project Page](FRC/FRC.md)/
 
 ### Mousetrap Car
 
