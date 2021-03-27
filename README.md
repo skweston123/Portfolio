@@ -3,8 +3,8 @@
 - Experience prototyping and designing parts and mechanisms 
 - Collaboration with a large group of other students and mentors  
 
-[Project Page](FRC/FRC.md) 
-&nbsp;   
+[Project Page](FRC/FRC.md)  
+&nbsp;  
 
 ### Mousetrap Car
 - Designed with Solidworks 
