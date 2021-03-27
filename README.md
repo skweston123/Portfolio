@@ -1,5 +1,5 @@
-### Highschool Robotics &nbsp;<font size="3"> -your text </font>
-[Project Page](FRC/FRC.md)  
+### Highschool Robotics &nbsp;<font size="4"> -[Project Page](FRC/FRC.md)  </font>
+ 
 &nbsp;   
 
 ### Mousetrap Car
