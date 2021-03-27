@@ -1,9 +1,9 @@
 ### High School Robotics Club
-[Project Page](FRC/FRC.md)  
 - Design work was done with Autodesk Inventor  
 - Experience prototyping and designing parts and mechanisms 
 - Collaboration with a large group of other students and mentors  
 
+[Project Page](FRC/FRC.md) 
 &nbsp;   
 
 ### Mousetrap Car
