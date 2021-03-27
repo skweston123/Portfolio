@@ -3,20 +3,23 @@
 &nbsp;   
 
 ### Mousetrap Car
-[Project Page](Mousetrap_Car/Mousetrap_Car.md)
-
+[Project Page](Mousetrap_Car/Mousetrap_Car.md)  
+&nbsp;  
 
 ### Drill Press Vise
 [Project Page](Vise/Vise.md)  
+&nbsp;  
 
 ### Rocket Launch Simulation
-[Project Page](Rocket_Simulation/Rocket_Simulation.md)
+[Project Page](Rocket_Simulation/Rocket_Simulation.md)  
+&nbsp;  
 
 ### RC Car
-[Project Page](RC_Car/RC_Car.md)
-
-
-
+[Project Page](RC_Car/RC_Car.md)  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 
 ## Welcome to GitHub Pages
