@@ -7,6 +7,7 @@
 
 ### Mousetrap Car
 - Used Solidworks for design work  
+- Car powered by mousetraps
 
 [Project Page](Mousetrap_Car/Mousetrap_Car.md)  
 &nbsp;  
