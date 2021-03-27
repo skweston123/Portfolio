@@ -1,6 +1,6 @@
 ### Highschool Robotics Club
-- Used Autodesk Inventor for design work
-- Competed in the FRC robotics comeptition for the 2016 and 2017 seasons
+- Used Autodesk Inventor for design work  
+- Competed in the FRC robotics comeptition for the 2016 and 2017 seasons  
 [Project Page](FRC/FRC.md)  
 &nbsp;   
 
