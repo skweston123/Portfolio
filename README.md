@@ -1,7 +1,7 @@
 ### Highschool Robotics
 [Project Page](FRC/FRC.md)  
-&nbsp  
-&nbsp  
+&nbsp;  
+&nbsp;  
 ### Mousetrap Car
 [Project Page](Mousetrap_Car/Mousetrap_Car.md)
 
