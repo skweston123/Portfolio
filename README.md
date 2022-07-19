@@ -38,3 +38,5 @@
 
 [Project Page](RC_Car/RC_Car.md)  
 &nbsp;  
+
+### [Capstone Project](Rocket_Simulation/Rocket_Simulation.md)
